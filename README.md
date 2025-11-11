@@ -1,5 +1,3 @@
-### Hi there ^^/
-
 👋 I’m @Dokba
 
 ![Dokba's github stats](https://github-readme-stats.vercel.app/api?username=Dokba&show_icons=true&theme=cobalt)
